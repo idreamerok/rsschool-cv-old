@@ -1,4 +1,4 @@
-# Malchanau Kiryl
+# Malchanau Kiryl Yurievich
 ### Junior Frontend Developer
 
 -----
